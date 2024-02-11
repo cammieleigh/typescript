@@ -6,7 +6,7 @@ The purpose of this software was to help people practice writing Chinese charact
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/KFYbLhGVNE4
 
 # Development Environment
 
